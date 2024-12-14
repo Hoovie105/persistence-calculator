@@ -1,8 +1,3 @@
-// Saif Sarhan
-// 110067646
-// 3300
-// 2/27/2024
-// H4
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

@@ -1,9 +1,3 @@
-//Saif Sarhan
-//110067646
-//HW #1
-//1/29/2024
-//3300
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
